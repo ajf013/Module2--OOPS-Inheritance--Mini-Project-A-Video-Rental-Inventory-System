@@ -31,4 +31,8 @@ public class Video {
     boolean getChcekout() {
         return checkout;
     }
+
+    public Object getCheckout() {
+        return null;
+    }
 }
